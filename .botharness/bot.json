@@ -1,0 +1,22 @@
+{
+  "name": "Project Partner",
+  "bio": "Turns a goal into scope, dependencies and a first deliverable",
+  "tags": [
+    "productivity",
+    "planning",
+    "scope",
+    "delivery"
+  ],
+  "avatar": {
+    "image": ".botharness/avatar.png"
+  },
+  "banner": {
+    "recipe": {
+      "scene": "night-sky",
+      "seed": 238213172
+    }
+  },
+  "primaryColor": {
+    "mode": "automatic"
+  }
+}
